@@ -27,8 +27,8 @@ El MVP se basa exclusivamente en fuentes públicas y abiertas (NOAA, CHIRPS, GPM
 ## 🚀 Quick Start
 
 ```bash
--**npm install**
--**npm run dev**
+npm install
+npm run dev
 
 ## 📁 Estructura del Proyecto
 .
