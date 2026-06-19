@@ -31,4 +31,22 @@ El MVP se basa exclusivamente en fuentes públicas y abiertas (NOAA, CHIRPS, GPM
 npm install
 npm run dev
 
+📁 Estructura del Proyecto
+.
+|-- public/
+|-- src/
+|   |-- components/
+|   |-- content/
+|   |-- data/
+|   |-- layouts/
+|   `-- pages/
+|-- astro.config.mjs
+|-- package.json
+|-- site.config.mjs
+`-- tsconfig.json
+
+## License
+
+[MIT](./LICENSE)
+
 
