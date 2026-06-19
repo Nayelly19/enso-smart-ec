@@ -12,8 +12,7 @@ ENSO-SMART Ecuador es una iniciativa de investigación aplicada para monitorear 
 
 ## 🎯 Estado del Proyecto
 
-**Fase 1 - MVP funcional y reproducible** (Mayo 2026)
-
+**Fase 1 - MVP funcional y reproducible** 
 El MVP se basa exclusivamente en fuentes públicas y abiertas (NOAA, CHIRPS, GPM IMERG, ERA5/Copernicus) para reducir dependencias y aumentar reproducibilidad científica.
 
 ## 🛠️ Stack Tecnológico
@@ -31,7 +30,7 @@ El MVP se basa exclusivamente en fuentes públicas y abiertas (NOAA, CHIRPS, GPM
 npm install
 npm run dev
 
-📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 .
 |-- public/
 |-- src/
